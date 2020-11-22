@@ -27433,3 +27433,9 @@ body.app--home.app--fourtwenty a {
     margin-top: 9px;
   }
 }
+
+.normal-text{
+  color:  #fff;
+  text-align: justify;
+  font-size: 24px;
+}

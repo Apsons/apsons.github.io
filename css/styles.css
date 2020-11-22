@@ -4564,7 +4564,7 @@ button.menu__close-button {
   display: block;
   clear: both;
 }
-.post.post--layout-1 .post__body > p:first-child:first-letter,
+/* .post.post--layout-1 .post__body > p:first-child:first-letter,
 .post.post--layout-2 .post__body > p:first-child:first-letter,
 .post.post--layout-1
   .post__body
@@ -4645,7 +4645,7 @@ button.menu__close-button {
   .post__body__group
   > p:first-child:first-letter {
   color: var(--scheme-color-b);
-}
+} */
 .post__body > ul,
 .post__body > ol,
 .post__body .post__body__group > ul,

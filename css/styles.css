@@ -4538,7 +4538,7 @@ button.menu__close-button {
   font-style: italic;
 }
 .post__body strong {
-  font-weight: 700;
+  font-weight: 100;
 }
 .post__body img,
 .post__body iframe,
@@ -4554,7 +4554,7 @@ button.menu__close-button {
   text-align: justify;
   margin-top: var(--paragraph-margin);
 }
-.post__body > p:first-child,
+/* .post__body > p:first-child,
 .post__body .post__body__group > p:first-child {
   margin-top: 0;
 }
@@ -4563,7 +4563,7 @@ button.menu__close-button {
   content: "";
   display: block;
   clear: both;
-}
+} */
 /* .post.post--layout-1 .post__body > p:first-child:first-letter,
 .post.post--layout-2 .post__body > p:first-child:first-letter,
 .post.post--layout-1
@@ -25045,7 +25045,7 @@ body.app--home.app--fourtwenty a {
     .post__body
     .post__body__group
     > p:first-child:first-letter {
-    font-size: 112px;
+    font-size: 12px;
     line-height: 1.11607;
     line-height: 140px;
     padding-top: 37px;

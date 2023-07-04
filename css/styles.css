@@ -20264,7 +20264,6 @@ body.feature--gyro-background .cardicle-promo .card__bg__image {
   padding-top: 6px;
   height: 44px;
   color: #fb6855;
-  -webkit-appearance: none;
 }
 .newsletter-card__input::-webkit-input-placeholder {
   color: #fb6855;
@@ -27431,7 +27430,7 @@ body.app--home.app--fourtwenty a {
     font-size: 16px;
     line-height: 1.25;
     margin-top: 9px;
-  } 
+  }
 }
 
 .normal-text{

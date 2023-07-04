@@ -15958,7 +15958,7 @@ body.feature--gyro-background .cardicle-promo .card__bg__image {
     .pullquote--inline
     span
     strong {
-    -webkit-text-stroke-color: var(--scheme-color-b);
+    -webkit-text-stroke-color: #e6e6e6);
   }
 }
 .post.post--text-style-1 .pullquote--full span em,
